@@ -25,6 +25,6 @@ public class App{
             
         }
  
-        System.out.println("You guessed in " + count + " attempt");
+        System.out.println(count + " attempt");
     }
 }
